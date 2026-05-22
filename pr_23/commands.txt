@@ -1,8 +1,0 @@
-git checkout -b feature/update-header-a
-git commit -m "Update header in branch A"
-
-git checkout -b feature/update-header-b
-git commit -m "Update header in branch B"
-
-git merge feature/update-header-a
-git merge feature/update-header-b
