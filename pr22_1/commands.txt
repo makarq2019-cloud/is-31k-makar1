@@ -1,3 +1,0 @@
-git add index.html
-git commit -m "Add profile data"
-git push origin main
