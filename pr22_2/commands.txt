@@ -1,0 +1,4 @@
+git checkout -b feature/contacts
+git add .
+git commit -m "Add contacts and styles"
+git push -u origin feature/contacts
